@@ -2,5 +2,5 @@
 
 Integrantes:
   -Luis Abril Andreu
-  -Elena
-  -Elena
+  -Elena Ceinos Abeijón
+  -Elena Tordesillas Fernandez
